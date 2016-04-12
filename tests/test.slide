@@ -2,4 +2,6 @@ This is a test
 
 * A test
 
+.code snippets/01.go
 .code ./snippets/01.go
+.code ../test/snippets/01.go
